@@ -1,11 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
     <div className="App">
-    <h1> react project </h1>
+    <h1> finally i have done my react project assigment </h1>
     </div>
   );
 }
